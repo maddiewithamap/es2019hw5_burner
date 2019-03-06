@@ -1,0 +1,10 @@
+---
+title: "Rmarkdownforgit"
+author: "Madeline Brown"
+date: "March 5, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error = TRUE)
+```
